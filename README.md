@@ -13,6 +13,14 @@ In this project, we have explored a variety of techniques, leveraging both Deep 
  - Autoencoder with UNET architecture
 
 
+## Results
+#### Colorisation using feature detection and comparison
+![][https://drive.google.com/file/d/1Eu7cfhGuBJyPQTcHVxmpKBeDLJTBSs3w/view?usp=drive_link]
 
+#### Autoencoder Architecture with Convolution Layers
+![][https://drive.google.com/file/d/1keGjdMlf27r2gBJmkHkZbPo2XVy5Ltlw/view?usp=drive_link]
+
+#### Autoencoder with UNET architecture
+![][https://drive.google.com/file/d/1rDXX4QIQd2WFZgFt5ZDFB5-OdiGvxSbB/view?usp=drive_link]
 
 
