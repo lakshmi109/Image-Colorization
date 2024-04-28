@@ -24,3 +24,7 @@ In this project, we have explored a variety of techniques, leveraging both Deep 
 ![Alt text](https://drive.google.com/file/d/1rDXX4QIQd2WFZgFt5ZDFB5-OdiGvxSbB/view?usp=sharing)
 
 
+## Instructions to run the code
+Simply clone the repository or download the files to the desired location, and normally run the .ipynb file
+
+
