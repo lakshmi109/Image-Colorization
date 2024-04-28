@@ -15,12 +15,12 @@ In this project, we have explored a variety of techniques, leveraging both Deep 
 
 ## Results
 #### Colorisation using feature detection and comparison
-![Alt text](https://drive.google.com/file/d/1Eu7cfhGuBJyPQTcHVxmpKBeDLJTBSs3w/view)
+![Alt text](https://drive.google.com/file/d/1Eu7cfhGuBJyPQTcHVxmpKBeDLJTBSs3w/view?usp=sharing)
 
 #### Autoencoder Architecture with Convolution Layers
-![Alt text](https://drive.google.com/file/d/1keGjdMlf27r2gBJmkHkZbPo2XVy5Ltlw/view)
+![Alt text](https://drive.google.com/file/d/1keGjdMlf27r2gBJmkHkZbPo2XVy5Ltlw/view?usp=sharing)
 
 #### Autoencoder with UNET architecture
-![Alt text](https://drive.google.com/file/d/1rDXX4QIQd2WFZgFt5ZDFB5-OdiGvxSbB/view)
+![Alt text](https://drive.google.com/file/d/1rDXX4QIQd2WFZgFt5ZDFB5-OdiGvxSbB/view?usp=sharing)
 
 
